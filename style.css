@@ -41,3 +41,16 @@ i{
 .next{
   right: 10%;
 }
+
+.container_pallini{
+  position: absolute;
+  bottom: 20%;
+  left: 50%;
+  transform: translateX(-50%);
+}
+.container_pallini i{
+  position: static;
+}
+.corrente{
+  color: grey;
+}
